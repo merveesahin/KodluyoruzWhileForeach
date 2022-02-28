@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1hvUOK+Pm7Z6eio4IW3LEqqCEHhSiYaFWxNxUOtYVyJhmnZ8yrHEbrlAyG+mK3TCQ4i27eR5LkR/08QC2pECVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merves\\Desktop\\Pratikler\\While-Foreach\\While-Foreach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
